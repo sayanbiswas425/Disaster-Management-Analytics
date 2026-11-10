@@ -1,0 +1,501 @@
+resource_id,resource_type,locality,total_units,available_units,status
+RES0001,Rescue Boat,Locality L,42,38,Ready
+RES0002,Generator,Locality C,88,47,Ready
+RES0003,Mobile Kitchen,Locality D,27,8,Critical Shortage
+RES0004,Fire Engine,Locality N,26,12,Ready
+RES0005,Mobile Kitchen,Locality T,55,41,Ready
+RES0006,Medical Team,Locality G,30,16,Ready
+RES0007,Fire Engine,Locality B,96,30,Critical Shortage
+RES0008,Medical Team,Locality S,37,3,Critical Shortage
+RES0009,Mobile Kitchen,Locality L,23,15,Ready
+RES0010,Fire Engine,Locality L,70,11,Critical Shortage
+RES0011,Mobile Kitchen,Locality F,18,18,Ready
+RES0012,Rescue Boat,Locality R,71,12,Critical Shortage
+RES0013,Generator,Locality G,36,33,Ready
+RES0014,Ambulance,Locality P,68,17,Critical Shortage
+RES0015,Mobile Kitchen,Locality B,14,1,Critical Shortage
+RES0016,Rescue Boat,Locality N,81,77,Ready
+RES0017,Mobile Kitchen,Locality B,14,13,Ready
+RES0018,Rescue Boat,Locality E,89,17,Critical Shortage
+RES0019,Rescue Boat,Locality J,89,65,Ready
+RES0020,Rescue Boat,Locality S,91,4,Critical Shortage
+RES0021,Fire Engine,Locality C,56,39,Ready
+RES0022,Medical Team,Locality C,23,1,Critical Shortage
+RES0023,Generator,Locality S,50,12,Critical Shortage
+RES0024,Fire Engine,Locality F,50,25,Ready
+RES0025,Rescue Boat,Locality H,54,27,Ready
+RES0026,Rescue Boat,Locality I,53,43,Ready
+RES0027,Generator,Locality G,25,12,Ready
+RES0028,Medical Team,Locality G,86,60,Ready
+RES0029,Medical Team,Locality P,60,46,Ready
+RES0030,Medical Team,Locality F,95,56,Ready
+RES0031,Ambulance,Locality J,72,14,Critical Shortage
+RES0032,Fire Engine,Locality Q,57,4,Critical Shortage
+RES0033,Generator,Locality S,66,32,Ready
+RES0034,Generator,Locality O,79,7,Critical Shortage
+RES0035,Rescue Boat,Locality T,65,22,Critical Shortage
+RES0036,Mobile Kitchen,Locality G,19,8,Ready
+RES0037,Ambulance,Locality G,67,17,Critical Shortage
+RES0038,Ambulance,Locality B,93,41,Ready
+RES0039,Ambulance,Locality N,16,9,Ready
+RES0040,Mobile Kitchen,Locality A,19,16,Ready
+RES0041,Ambulance,Locality Q,14,10,Ready
+RES0042,Medical Team,Locality Q,11,6,Ready
+RES0043,Ambulance,Locality K,77,69,Ready
+RES0044,Medical Team,Locality D,67,35,Ready
+RES0045,Medical Team,Locality N,89,81,Ready
+RES0046,Medical Team,Locality G,36,1,Critical Shortage
+RES0047,Medical Team,Locality H,95,87,Ready
+RES0048,Rescue Boat,Locality O,51,29,Ready
+RES0049,Ambulance,Locality C,57,42,Ready
+RES0050,Ambulance,Locality F,23,15,Ready
+RES0051,Generator,Locality S,78,10,Critical Shortage
+RES0052,Rescue Boat,Locality P,26,17,Ready
+RES0053,Mobile Kitchen,Locality H,15,2,Critical Shortage
+RES0054,Generator,Locality J,29,28,Ready
+RES0055,Rescue Boat,Locality N,43,30,Ready
+RES0056,Rescue Boat,Locality M,45,14,Critical Shortage
+RES0057,Fire Engine,Locality D,44,36,Ready
+RES0058,Mobile Kitchen,Locality D,47,35,Ready
+RES0059,Ambulance,Locality F,82,33,Ready
+RES0060,Medical Team,Locality E,17,14,Ready
+RES0061,Mobile Kitchen,Locality T,58,46,Ready
+RES0062,Mobile Kitchen,Locality H,58,13,Critical Shortage
+RES0063,Ambulance,Locality M,57,21,Critical Shortage
+RES0064,Generator,Locality M,17,7,Ready
+RES0065,Medical Team,Locality M,55,51,Ready
+RES0066,Ambulance,Locality R,45,41,Ready
+RES0067,Medical Team,Locality N,94,66,Ready
+RES0068,Ambulance,Locality Q,89,17,Critical Shortage
+RES0069,Generator,Locality P,18,9,Ready
+RES0070,Rescue Boat,Locality O,95,58,Ready
+RES0071,Mobile Kitchen,Locality T,49,37,Ready
+RES0072,Mobile Kitchen,Locality T,36,7,Critical Shortage
+RES0073,Generator,Locality F,59,40,Ready
+RES0074,Mobile Kitchen,Locality I,42,35,Ready
+RES0075,Generator,Locality P,12,5,Ready
+RES0076,Rescue Boat,Locality Q,35,4,Critical Shortage
+RES0077,Medical Team,Locality C,78,6,Critical Shortage
+RES0078,Mobile Kitchen,Locality Q,54,22,Ready
+RES0079,Generator,Locality D,73,23,Critical Shortage
+RES0080,Generator,Locality B,63,50,Ready
+RES0081,Fire Engine,Locality J,78,68,Ready
+RES0082,Fire Engine,Locality I,72,29,Ready
+RES0083,Fire Engine,Locality B,23,22,Ready
+RES0084,Mobile Kitchen,Locality A,46,41,Ready
+RES0085,Mobile Kitchen,Locality G,93,46,Ready
+RES0086,Rescue Boat,Locality M,26,16,Ready
+RES0087,Medical Team,Locality K,83,46,Ready
+RES0088,Fire Engine,Locality E,26,9,Critical Shortage
+RES0089,Mobile Kitchen,Locality J,82,38,Ready
+RES0090,Generator,Locality T,83,43,Ready
+RES0091,Generator,Locality K,37,6,Critical Shortage
+RES0092,Medical Team,Locality Q,88,82,Ready
+RES0093,Ambulance,Locality R,28,8,Critical Shortage
+RES0094,Rescue Boat,Locality S,47,46,Ready
+RES0095,Fire Engine,Locality D,31,11,Critical Shortage
+RES0096,Fire Engine,Locality N,50,10,Critical Shortage
+RES0097,Mobile Kitchen,Locality I,32,5,Critical Shortage
+RES0098,Fire Engine,Locality G,68,24,Critical Shortage
+RES0099,Ambulance,Locality N,51,20,Critical Shortage
+RES0100,Medical Team,Locality T,61,49,Ready
+RES0101,Fire Engine,Locality D,21,9,Ready
+RES0102,Ambulance,Locality O,82,4,Critical Shortage
+RES0103,Rescue Boat,Locality I,33,29,Ready
+RES0104,Generator,Locality C,23,10,Ready
+RES0105,Ambulance,Locality P,23,6,Critical Shortage
+RES0106,Mobile Kitchen,Locality J,93,37,Critical Shortage
+RES0107,Fire Engine,Locality L,36,17,Ready
+RES0108,Medical Team,Locality O,37,37,Ready
+RES0109,Generator,Locality T,27,13,Ready
+RES0110,Ambulance,Locality O,17,6,Critical Shortage
+RES0111,Ambulance,Locality M,96,6,Critical Shortage
+RES0112,Rescue Boat,Locality J,42,31,Ready
+RES0113,Fire Engine,Locality A,69,19,Critical Shortage
+RES0114,Generator,Locality H,75,27,Critical Shortage
+RES0115,Rescue Boat,Locality Q,93,53,Ready
+RES0116,Medical Team,Locality S,30,28,Ready
+RES0117,Mobile Kitchen,Locality B,70,22,Critical Shortage
+RES0118,Mobile Kitchen,Locality R,37,25,Ready
+RES0119,Mobile Kitchen,Locality P,91,81,Ready
+RES0120,Ambulance,Locality N,30,21,Ready
+RES0121,Fire Engine,Locality M,73,47,Ready
+RES0122,Rescue Boat,Locality S,79,18,Critical Shortage
+RES0123,Ambulance,Locality Q,95,64,Ready
+RES0124,Rescue Boat,Locality G,57,54,Ready
+RES0125,Generator,Locality M,92,67,Ready
+RES0126,Medical Team,Locality Q,24,3,Critical Shortage
+RES0127,Ambulance,Locality G,16,10,Ready
+RES0128,Generator,Locality A,89,51,Ready
+RES0129,Medical Team,Locality D,78,7,Critical Shortage
+RES0130,Rescue Boat,Locality N,65,56,Ready
+RES0131,Ambulance,Locality H,22,2,Critical Shortage
+RES0132,Mobile Kitchen,Locality N,98,66,Ready
+RES0133,Medical Team,Locality H,87,64,Ready
+RES0134,Generator,Locality F,76,6,Critical Shortage
+RES0135,Rescue Boat,Locality G,25,19,Ready
+RES0136,Medical Team,Locality D,60,19,Critical Shortage
+RES0137,Rescue Boat,Locality B,16,13,Ready
+RES0138,Ambulance,Locality C,60,22,Critical Shortage
+RES0139,Rescue Boat,Locality L,19,17,Ready
+RES0140,Medical Team,Locality P,39,2,Critical Shortage
+RES0141,Generator,Locality K,46,24,Ready
+RES0142,Mobile Kitchen,Locality F,92,33,Critical Shortage
+RES0143,Rescue Boat,Locality B,24,4,Critical Shortage
+RES0144,Generator,Locality A,57,15,Critical Shortage
+RES0145,Mobile Kitchen,Locality P,45,35,Ready
+RES0146,Ambulance,Locality B,48,4,Critical Shortage
+RES0147,Mobile Kitchen,Locality D,87,22,Critical Shortage
+RES0148,Fire Engine,Locality I,14,5,Critical Shortage
+RES0149,Rescue Boat,Locality K,33,28,Ready
+RES0150,Mobile Kitchen,Locality N,32,8,Critical Shortage
+RES0151,Mobile Kitchen,Locality B,48,2,Critical Shortage
+RES0152,Medical Team,Locality K,61,8,Critical Shortage
+RES0153,Ambulance,Locality O,33,2,Critical Shortage
+RES0154,Medical Team,Locality A,35,13,Critical Shortage
+RES0155,Generator,Locality K,93,65,Ready
+RES0156,Ambulance,Locality F,29,13,Ready
+RES0157,Medical Team,Locality T,77,42,Ready
+RES0158,Rescue Boat,Locality K,23,21,Ready
+RES0159,Ambulance,Locality N,18,8,Ready
+RES0160,Generator,Locality F,15,2,Critical Shortage
+RES0161,Ambulance,Locality M,24,7,Critical Shortage
+RES0162,Medical Team,Locality T,15,6,Critical Shortage
+RES0163,Generator,Locality L,37,4,Critical Shortage
+RES0164,Fire Engine,Locality D,86,3,Critical Shortage
+RES0165,Generator,Locality P,93,35,Critical Shortage
+RES0166,Rescue Boat,Locality I,46,17,Critical Shortage
+RES0167,Medical Team,Locality H,94,65,Ready
+RES0168,Medical Team,Locality G,28,10,Critical Shortage
+RES0169,Generator,Locality J,37,4,Critical Shortage
+RES0170,Medical Team,Locality L,24,13,Ready
+RES0171,Rescue Boat,Locality N,63,47,Ready
+RES0172,Mobile Kitchen,Locality D,58,58,Ready
+RES0173,Generator,Locality H,16,13,Ready
+RES0174,Medical Team,Locality C,16,7,Ready
+RES0175,Medical Team,Locality F,79,74,Ready
+RES0176,Generator,Locality N,60,38,Ready
+RES0177,Generator,Locality M,91,42,Ready
+RES0178,Generator,Locality C,76,72,Ready
+RES0179,Fire Engine,Locality P,22,13,Ready
+RES0180,Medical Team,Locality E,41,33,Ready
+RES0181,Medical Team,Locality K,19,12,Ready
+RES0182,Ambulance,Locality H,47,34,Ready
+RES0183,Rescue Boat,Locality N,92,43,Ready
+RES0184,Fire Engine,Locality L,57,37,Ready
+RES0185,Rescue Boat,Locality I,15,5,Critical Shortage
+RES0186,Fire Engine,Locality S,44,29,Ready
+RES0187,Mobile Kitchen,Locality D,29,26,Ready
+RES0188,Mobile Kitchen,Locality T,77,17,Critical Shortage
+RES0189,Medical Team,Locality O,97,77,Ready
+RES0190,Generator,Locality J,35,10,Critical Shortage
+RES0191,Fire Engine,Locality I,98,14,Critical Shortage
+RES0192,Generator,Locality S,25,8,Critical Shortage
+RES0193,Ambulance,Locality P,65,20,Critical Shortage
+RES0194,Fire Engine,Locality G,42,16,Critical Shortage
+RES0195,Fire Engine,Locality S,46,11,Critical Shortage
+RES0196,Generator,Locality Q,49,42,Ready
+RES0197,Fire Engine,Locality O,99,41,Ready
+RES0198,Rescue Boat,Locality B,58,14,Critical Shortage
+RES0199,Ambulance,Locality P,36,9,Critical Shortage
+RES0200,Rescue Boat,Locality I,86,22,Critical Shortage
+RES0201,Ambulance,Locality O,44,8,Critical Shortage
+RES0202,Fire Engine,Locality R,47,11,Critical Shortage
+RES0203,Medical Team,Locality C,30,29,Ready
+RES0204,Medical Team,Locality R,55,19,Critical Shortage
+RES0205,Fire Engine,Locality P,65,40,Ready
+RES0206,Mobile Kitchen,Locality P,33,6,Critical Shortage
+RES0207,Mobile Kitchen,Locality F,58,43,Ready
+RES0208,Ambulance,Locality F,24,4,Critical Shortage
+RES0209,Generator,Locality R,81,80,Ready
+RES0210,Rescue Boat,Locality P,35,33,Ready
+RES0211,Fire Engine,Locality F,84,54,Ready
+RES0212,Generator,Locality S,52,25,Ready
+RES0213,Generator,Locality T,64,50,Ready
+RES0214,Medical Team,Locality P,15,8,Ready
+RES0215,Mobile Kitchen,Locality G,45,23,Ready
+RES0216,Medical Team,Locality O,35,16,Ready
+RES0217,Generator,Locality H,48,24,Ready
+RES0218,Medical Team,Locality T,94,71,Ready
+RES0219,Generator,Locality S,59,3,Critical Shortage
+RES0220,Fire Engine,Locality K,69,48,Ready
+RES0221,Mobile Kitchen,Locality T,47,21,Ready
+RES0222,Ambulance,Locality K,89,12,Critical Shortage
+RES0223,Fire Engine,Locality K,83,75,Ready
+RES0224,Mobile Kitchen,Locality D,47,32,Ready
+RES0225,Generator,Locality J,63,25,Critical Shortage
+RES0226,Mobile Kitchen,Locality N,25,4,Critical Shortage
+RES0227,Ambulance,Locality Q,66,41,Ready
+RES0228,Rescue Boat,Locality Q,60,13,Critical Shortage
+RES0229,Rescue Boat,Locality H,33,32,Ready
+RES0230,Generator,Locality Q,87,30,Critical Shortage
+RES0231,Generator,Locality E,51,26,Ready
+RES0232,Rescue Boat,Locality H,51,25,Ready
+RES0233,Fire Engine,Locality K,21,21,Ready
+RES0234,Mobile Kitchen,Locality R,86,44,Ready
+RES0235,Ambulance,Locality P,54,3,Critical Shortage
+RES0236,Fire Engine,Locality T,65,13,Critical Shortage
+RES0237,Generator,Locality M,49,7,Critical Shortage
+RES0238,Fire Engine,Locality R,93,55,Ready
+RES0239,Generator,Locality K,32,8,Critical Shortage
+RES0240,Medical Team,Locality J,41,20,Ready
+RES0241,Medical Team,Locality Q,61,21,Critical Shortage
+RES0242,Rescue Boat,Locality Q,43,41,Ready
+RES0243,Generator,Locality A,22,4,Critical Shortage
+RES0244,Mobile Kitchen,Locality D,94,10,Critical Shortage
+RES0245,Medical Team,Locality D,15,5,Critical Shortage
+RES0246,Fire Engine,Locality D,37,4,Critical Shortage
+RES0247,Mobile Kitchen,Locality T,71,31,Ready
+RES0248,Medical Team,Locality H,62,27,Ready
+RES0249,Mobile Kitchen,Locality G,53,12,Critical Shortage
+RES0250,Rescue Boat,Locality D,88,72,Ready
+RES0251,Mobile Kitchen,Locality G,88,20,Critical Shortage
+RES0252,Rescue Boat,Locality K,21,17,Ready
+RES0253,Generator,Locality E,72,57,Ready
+RES0254,Medical Team,Locality L,26,19,Ready
+RES0255,Fire Engine,Locality I,31,12,Critical Shortage
+RES0256,Ambulance,Locality T,86,26,Critical Shortage
+RES0257,Ambulance,Locality L,70,35,Ready
+RES0258,Generator,Locality S,68,2,Critical Shortage
+RES0259,Ambulance,Locality E,38,13,Critical Shortage
+RES0260,Fire Engine,Locality G,98,80,Ready
+RES0261,Medical Team,Locality J,83,80,Ready
+RES0262,Medical Team,Locality C,91,9,Critical Shortage
+RES0263,Rescue Boat,Locality T,72,16,Critical Shortage
+RES0264,Rescue Boat,Locality D,93,76,Ready
+RES0265,Rescue Boat,Locality J,78,50,Ready
+RES0266,Generator,Locality P,73,22,Critical Shortage
+RES0267,Ambulance,Locality H,37,12,Critical Shortage
+RES0268,Medical Team,Locality G,52,47,Ready
+RES0269,Ambulance,Locality O,90,48,Ready
+RES0270,Rescue Boat,Locality T,41,38,Ready
+RES0271,Rescue Boat,Locality F,92,48,Ready
+RES0272,Ambulance,Locality L,17,9,Ready
+RES0273,Mobile Kitchen,Locality R,80,52,Ready
+RES0274,Medical Team,Locality L,40,40,Ready
+RES0275,Medical Team,Locality L,35,21,Ready
+RES0276,Ambulance,Locality A,12,11,Ready
+RES0277,Generator,Locality K,96,38,Critical Shortage
+RES0278,Rescue Boat,Locality K,74,65,Ready
+RES0279,Generator,Locality J,62,16,Critical Shortage
+RES0280,Rescue Boat,Locality I,91,45,Ready
+RES0281,Medical Team,Locality F,11,11,Ready
+RES0282,Generator,Locality I,44,39,Ready
+RES0283,Rescue Boat,Locality S,86,35,Ready
+RES0284,Medical Team,Locality O,70,29,Ready
+RES0285,Medical Team,Locality L,30,21,Ready
+RES0286,Ambulance,Locality A,96,76,Ready
+RES0287,Generator,Locality S,52,44,Ready
+RES0288,Fire Engine,Locality D,44,7,Critical Shortage
+RES0289,Rescue Boat,Locality S,49,23,Ready
+RES0290,Ambulance,Locality O,38,10,Critical Shortage
+RES0291,Generator,Locality B,21,7,Critical Shortage
+RES0292,Mobile Kitchen,Locality O,52,50,Ready
+RES0293,Fire Engine,Locality M,85,56,Ready
+RES0294,Ambulance,Locality O,91,78,Ready
+RES0295,Medical Team,Locality Q,33,28,Ready
+RES0296,Rescue Boat,Locality F,49,28,Ready
+RES0297,Fire Engine,Locality Q,61,36,Ready
+RES0298,Mobile Kitchen,Locality J,96,90,Ready
+RES0299,Mobile Kitchen,Locality P,80,10,Critical Shortage
+RES0300,Medical Team,Locality B,76,44,Ready
+RES0301,Medical Team,Locality E,42,21,Ready
+RES0302,Mobile Kitchen,Locality M,65,56,Ready
+RES0303,Generator,Locality O,93,48,Ready
+RES0304,Fire Engine,Locality K,39,9,Critical Shortage
+RES0305,Mobile Kitchen,Locality I,77,75,Ready
+RES0306,Fire Engine,Locality A,29,5,Critical Shortage
+RES0307,Medical Team,Locality G,99,48,Ready
+RES0308,Mobile Kitchen,Locality R,32,21,Ready
+RES0309,Ambulance,Locality P,64,48,Ready
+RES0310,Generator,Locality E,64,60,Ready
+RES0311,Fire Engine,Locality M,40,36,Ready
+RES0312,Ambulance,Locality R,57,26,Ready
+RES0313,Rescue Boat,Locality Q,46,30,Ready
+RES0314,Medical Team,Locality H,96,34,Critical Shortage
+RES0315,Mobile Kitchen,Locality F,48,15,Critical Shortage
+RES0316,Ambulance,Locality O,27,25,Ready
+RES0317,Medical Team,Locality R,27,2,Critical Shortage
+RES0318,Generator,Locality L,38,4,Critical Shortage
+RES0319,Medical Team,Locality J,86,35,Ready
+RES0320,Ambulance,Locality K,73,62,Ready
+RES0321,Mobile Kitchen,Locality N,65,40,Ready
+RES0322,Generator,Locality P,64,47,Ready
+RES0323,Rescue Boat,Locality O,14,13,Ready
+RES0324,Ambulance,Locality G,28,22,Ready
+RES0325,Mobile Kitchen,Locality M,69,53,Ready
+RES0326,Ambulance,Locality B,74,36,Ready
+RES0327,Ambulance,Locality G,64,45,Ready
+RES0328,Fire Engine,Locality G,14,5,Critical Shortage
+RES0329,Rescue Boat,Locality T,93,45,Ready
+RES0330,Fire Engine,Locality R,12,6,Ready
+RES0331,Medical Team,Locality B,29,10,Critical Shortage
+RES0332,Fire Engine,Locality I,37,34,Ready
+RES0333,Fire Engine,Locality L,79,30,Critical Shortage
+RES0334,Fire Engine,Locality K,93,55,Ready
+RES0335,Mobile Kitchen,Locality T,32,26,Ready
+RES0336,Rescue Boat,Locality G,46,10,Critical Shortage
+RES0337,Ambulance,Locality T,57,7,Critical Shortage
+RES0338,Fire Engine,Locality G,88,35,Critical Shortage
+RES0339,Mobile Kitchen,Locality A,99,30,Critical Shortage
+RES0340,Mobile Kitchen,Locality C,81,36,Ready
+RES0341,Fire Engine,Locality D,95,59,Ready
+RES0342,Mobile Kitchen,Locality S,16,9,Ready
+RES0343,Generator,Locality D,60,23,Critical Shortage
+RES0344,Ambulance,Locality B,54,54,Ready
+RES0345,Rescue Boat,Locality H,90,56,Ready
+RES0346,Ambulance,Locality P,54,20,Critical Shortage
+RES0347,Generator,Locality T,67,57,Ready
+RES0348,Mobile Kitchen,Locality H,77,11,Critical Shortage
+RES0349,Fire Engine,Locality O,30,27,Ready
+RES0350,Medical Team,Locality R,24,12,Ready
+RES0351,Fire Engine,Locality A,59,54,Ready
+RES0352,Medical Team,Locality P,62,49,Ready
+RES0353,Fire Engine,Locality O,31,24,Ready
+RES0354,Fire Engine,Locality L,79,77,Ready
+RES0355,Generator,Locality G,29,28,Ready
+RES0356,Medical Team,Locality I,49,24,Ready
+RES0357,Medical Team,Locality N,45,42,Ready
+RES0358,Rescue Boat,Locality K,24,20,Ready
+RES0359,Medical Team,Locality O,47,38,Ready
+RES0360,Medical Team,Locality N,60,4,Critical Shortage
+RES0361,Fire Engine,Locality T,69,4,Critical Shortage
+RES0362,Ambulance,Locality B,48,28,Ready
+RES0363,Generator,Locality F,11,8,Ready
+RES0364,Medical Team,Locality R,76,47,Ready
+RES0365,Ambulance,Locality K,38,25,Ready
+RES0366,Ambulance,Locality M,68,50,Ready
+RES0367,Medical Team,Locality F,21,13,Ready
+RES0368,Generator,Locality H,19,17,Ready
+RES0369,Generator,Locality M,16,6,Critical Shortage
+RES0370,Rescue Boat,Locality B,60,29,Ready
+RES0371,Generator,Locality B,25,24,Ready
+RES0372,Mobile Kitchen,Locality J,90,36,Critical Shortage
+RES0373,Ambulance,Locality H,14,13,Ready
+RES0374,Mobile Kitchen,Locality N,21,7,Critical Shortage
+RES0375,Generator,Locality N,29,24,Ready
+RES0376,Ambulance,Locality J,28,14,Ready
+RES0377,Mobile Kitchen,Locality D,99,50,Ready
+RES0378,Generator,Locality E,57,49,Ready
+RES0379,Rescue Boat,Locality S,77,23,Critical Shortage
+RES0380,Mobile Kitchen,Locality R,74,48,Ready
+RES0381,Generator,Locality M,27,13,Ready
+RES0382,Ambulance,Locality I,87,50,Ready
+RES0383,Rescue Boat,Locality O,39,31,Ready
+RES0384,Medical Team,Locality Q,31,23,Ready
+RES0385,Ambulance,Locality S,36,10,Critical Shortage
+RES0386,Fire Engine,Locality H,22,20,Ready
+RES0387,Mobile Kitchen,Locality F,49,32,Ready
+RES0388,Generator,Locality K,28,5,Critical Shortage
+RES0389,Generator,Locality C,19,13,Ready
+RES0390,Fire Engine,Locality Q,45,25,Ready
+RES0391,Rescue Boat,Locality R,76,34,Ready
+RES0392,Mobile Kitchen,Locality N,52,5,Critical Shortage
+RES0393,Medical Team,Locality H,99,2,Critical Shortage
+RES0394,Mobile Kitchen,Locality S,70,33,Ready
+RES0395,Medical Team,Locality P,87,5,Critical Shortage
+RES0396,Rescue Boat,Locality D,98,1,Critical Shortage
+RES0397,Fire Engine,Locality I,98,98,Ready
+RES0398,Fire Engine,Locality J,69,22,Critical Shortage
+RES0399,Fire Engine,Locality L,36,11,Critical Shortage
+RES0400,Rescue Boat,Locality M,15,5,Critical Shortage
+RES0401,Rescue Boat,Locality R,10,10,Ready
+RES0402,Mobile Kitchen,Locality L,15,1,Critical Shortage
+RES0403,Medical Team,Locality C,44,14,Critical Shortage
+RES0404,Ambulance,Locality T,63,51,Ready
+RES0405,Ambulance,Locality C,37,21,Ready
+RES0406,Fire Engine,Locality F,82,62,Ready
+RES0407,Mobile Kitchen,Locality R,32,15,Ready
+RES0408,Ambulance,Locality I,99,41,Ready
+RES0409,Generator,Locality B,71,57,Ready
+RES0410,Mobile Kitchen,Locality B,14,10,Ready
+RES0411,Medical Team,Locality B,94,15,Critical Shortage
+RES0412,Rescue Boat,Locality N,17,13,Ready
+RES0413,Mobile Kitchen,Locality P,31,17,Ready
+RES0414,Fire Engine,Locality H,35,22,Ready
+RES0415,Generator,Locality R,35,35,Ready
+RES0416,Fire Engine,Locality I,86,82,Ready
+RES0417,Mobile Kitchen,Locality C,75,3,Critical Shortage
+RES0418,Mobile Kitchen,Locality E,54,7,Critical Shortage
+RES0419,Rescue Boat,Locality D,95,82,Ready
+RES0420,Fire Engine,Locality L,99,56,Ready
+RES0421,Ambulance,Locality G,53,51,Ready
+RES0422,Rescue Boat,Locality B,55,9,Critical Shortage
+RES0423,Medical Team,Locality H,54,37,Ready
+RES0424,Fire Engine,Locality M,52,10,Critical Shortage
+RES0425,Mobile Kitchen,Locality O,85,2,Critical Shortage
+RES0426,Ambulance,Locality F,79,63,Ready
+RES0427,Mobile Kitchen,Locality C,64,54,Ready
+RES0428,Medical Team,Locality J,98,47,Ready
+RES0429,Fire Engine,Locality R,14,7,Ready
+RES0430,Generator,Locality H,58,29,Ready
+RES0431,Mobile Kitchen,Locality K,53,34,Ready
+RES0432,Generator,Locality J,59,24,Ready
+RES0433,Mobile Kitchen,Locality S,45,22,Ready
+RES0434,Medical Team,Locality R,12,4,Critical Shortage
+RES0435,Medical Team,Locality E,43,26,Ready
+RES0436,Fire Engine,Locality H,18,15,Ready
+RES0437,Medical Team,Locality O,96,31,Critical Shortage
+RES0438,Ambulance,Locality T,14,10,Ready
+RES0439,Mobile Kitchen,Locality A,25,10,Critical Shortage
+RES0440,Mobile Kitchen,Locality B,56,47,Ready
+RES0441,Fire Engine,Locality G,85,68,Ready
+RES0442,Generator,Locality B,21,6,Critical Shortage
+RES0443,Mobile Kitchen,Locality H,49,2,Critical Shortage
+RES0444,Mobile Kitchen,Locality M,15,6,Critical Shortage
+RES0445,Ambulance,Locality O,30,25,Ready
+RES0446,Rescue Boat,Locality E,25,11,Ready
+RES0447,Fire Engine,Locality E,96,30,Critical Shortage
+RES0448,Rescue Boat,Locality A,28,7,Critical Shortage
+RES0449,Fire Engine,Locality D,50,35,Ready
+RES0450,Rescue Boat,Locality D,55,46,Ready
+RES0451,Ambulance,Locality G,43,37,Ready
+RES0452,Fire Engine,Locality A,84,15,Critical Shortage
+RES0453,Ambulance,Locality L,80,2,Critical Shortage
+RES0454,Rescue Boat,Locality B,13,11,Ready
+RES0455,Mobile Kitchen,Locality K,67,19,Critical Shortage
+RES0456,Mobile Kitchen,Locality K,51,26,Ready
+RES0457,Mobile Kitchen,Locality S,11,11,Ready
+RES0458,Fire Engine,Locality Q,40,2,Critical Shortage
+RES0459,Generator,Locality P,72,50,Ready
+RES0460,Generator,Locality S,36,19,Ready
+RES0461,Ambulance,Locality Q,85,34,Critical Shortage
+RES0462,Fire Engine,Locality E,89,74,Ready
+RES0463,Medical Team,Locality N,51,38,Ready
+RES0464,Mobile Kitchen,Locality D,95,73,Ready
+RES0465,Fire Engine,Locality H,85,64,Ready
+RES0466,Medical Team,Locality Q,86,44,Ready
+RES0467,Rescue Boat,Locality G,19,7,Critical Shortage
+RES0468,Fire Engine,Locality P,71,62,Ready
+RES0469,Rescue Boat,Locality J,58,8,Critical Shortage
+RES0470,Rescue Boat,Locality G,86,49,Ready
+RES0471,Rescue Boat,Locality G,33,20,Ready
+RES0472,Ambulance,Locality J,64,15,Critical Shortage
+RES0473,Rescue Boat,Locality A,68,49,Ready
+RES0474,Mobile Kitchen,Locality G,24,11,Ready
+RES0475,Rescue Boat,Locality P,99,21,Critical Shortage
+RES0476,Ambulance,Locality N,37,29,Ready
+RES0477,Medical Team,Locality C,93,84,Ready
+RES0478,Generator,Locality J,80,37,Ready
+RES0479,Mobile Kitchen,Locality B,87,56,Ready
+RES0480,Mobile Kitchen,Locality O,24,2,Critical Shortage
+RES0481,Ambulance,Locality K,38,19,Ready
+RES0482,Rescue Boat,Locality B,44,39,Ready
+RES0483,Medical Team,Locality P,54,39,Ready
+RES0484,Ambulance,Locality E,50,45,Ready
+RES0485,Ambulance,Locality R,19,14,Ready
+RES0486,Fire Engine,Locality D,22,2,Critical Shortage
+RES0487,Medical Team,Locality B,12,10,Ready
+RES0488,Mobile Kitchen,Locality K,23,19,Ready
+RES0489,Ambulance,Locality I,28,27,Ready
+RES0490,Medical Team,Locality G,39,28,Ready
+RES0491,Fire Engine,Locality F,22,17,Ready
+RES0492,Ambulance,Locality S,71,10,Critical Shortage
+RES0493,Fire Engine,Locality B,52,8,Critical Shortage
+RES0494,Ambulance,Locality G,53,41,Ready
+RES0495,Fire Engine,Locality H,65,16,Critical Shortage
+RES0496,Mobile Kitchen,Locality A,30,25,Ready
+RES0497,Rescue Boat,Locality F,57,49,Ready
+RES0498,Fire Engine,Locality F,17,5,Critical Shortage
+RES0499,Medical Team,Locality C,83,72,Ready
+RES0500,Generator,Locality N,39,29,Ready
